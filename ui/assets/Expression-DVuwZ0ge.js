@@ -1,0 +1,1 @@
+import{j as o}from"./jsx-runtime-CkxqCPlQ.js";const e=({children:s})=>o.jsx("div",{className:"flex gap-x-2",children:s});e.__docgenInfo={description:"",methods:[],displayName:"Expression"};export{e as E};
