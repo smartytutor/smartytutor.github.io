@@ -1,1 +1,0 @@
-const e={parameters:{layout:"centered",controls:{disable:!0},actions:{disable:!0},docs:{canvas:{className:"!background"}}},argTypes:{children:{table:{disable:!0}},className:{table:{disable:!0}}}};export{e as default};
