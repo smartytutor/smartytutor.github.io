@@ -1,0 +1,1 @@
+import{j as i}from"./jsx-runtime-CkxqCPlQ.js";const e=({children:s})=>i.jsx("span",{className:"inline-block whitespace-nowrap rounded-sm bg-[#FFE17352] transition",children:s});e.__docgenInfo={description:"",methods:[],displayName:"Highlighted"};export{e as H};

@@ -1,0 +1,1 @@
+import{k as u}from"./keys-V90hh7H8.js";function l(e){return function(r,i,o){for(var s=-1,n=Object(r),a=o(r),f=a.length;f--;){var t=a[++s];if(i(n[t],t,n)===!1)break}return r}}var h=l();function b(e,r){return e&&h(e,r,u)}export{b};
