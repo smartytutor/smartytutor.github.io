@@ -1,0 +1,1 @@
+import{j as o}from"./jsx-runtime-CkxqCPlQ.js";import{m as t}from"./proxy-Bu-Muats.js";const e=""+new URL("lot-D_uWeQEw.png",import.meta.url).href,s=()=>o.jsx(t.div,{layout:!0,className:"aspect-square min-w-16 bg-contain",style:{backgroundImage:`url(${e})`}});s.__docgenInfo={description:"",methods:[],displayName:"Lot"};export{s as L};
