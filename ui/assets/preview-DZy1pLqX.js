@@ -1,0 +1,1 @@
+const e={parameters:{layout:"centered",controls:{disable:!0},actions:{disable:!0},docs:{canvas:{className:"!background"}},viewport:{viewports:{small:{name:"Small",styles:{width:"1280px",height:"657px"}},large:{name:"Large",styles:{width:"1920px",height:"969px"}}}}},tags:["autodocs"],argTypes:{children:{table:{disable:!0}},className:{table:{disable:!0}}}};export{e as default};
