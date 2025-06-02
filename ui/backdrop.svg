@@ -1,0 +1,24 @@
+<svg width="926" height="657" viewBox="0 0 926 657" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="grad1" cx="28.02%" cy="58.37%" r="57.82%">
+      <stop offset="63%" stop-color="#C18E2A"/>
+      <stop offset="100%" stop-color="rgba(220, 183, 86, 0)"/>
+    </radialGradient>
+    <radialGradient id="grad2" cx="61.8%" cy="47.97%" r="61.72%">
+      <stop offset="40.5%" stop-color="#D2602F"/>
+      <stop offset="100%" stop-color="rgba(220, 183, 86, 0)"/>
+    </radialGradient>
+    <radialGradient id="grad3" cx="53.76%" cy="23.09%" r="46.29%">
+      <stop offset="40.5%" stop-color="rgba(77, 131, 35, 0.8)"/>
+      <stop offset="100%" stop-color="rgba(113, 220, 86, 0)"/>
+    </radialGradient>
+
+    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="62" />
+    </filter>
+  </defs>
+
+  <ellipse cx="463" cy="327" rx="339" ry="209" fill="url(#grad1)" filter="url(#blur)" />
+  <ellipse cx="463" cy="327" rx="339" ry="209" fill="url(#grad2)" filter="url(#blur)" />
+  <ellipse cx="463" cy="327" rx="339" ry="209" fill="url(#grad3)" filter="url(#blur)" />
+</svg>
