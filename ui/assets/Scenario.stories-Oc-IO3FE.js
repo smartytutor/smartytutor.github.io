@@ -1,0 +1,6 @@
+import{c as i,s as p}from"./SideSlide-DwD6aiwt.js";import{T as a}from"./TutorWithGraph-bijWdsGd.js";import"./ScenarioGraphModal-Cn5f270A.js";import"./index-DRjF_FHU.js";import"./jsx-runtime-DR9Q75dM.js";import"./Action-DQ72ZiUY.js";import"./clsx-B-dksMZM.js";import"./Button-CGecWSMn.js";import"./Icon-DNOHRIBS.js";import"./proxy-C00yw4cG.js";import"./Answer-CpHO1qYv.js";import"./Chat-CUlhg49f.js";import"./VoiceoverProvider-i68q2e-2.js";import"./Message-ByLECGpj.js";import"./Input-0sRJfh9S.js";import"./Menu-DuHofHgY.js";import"./ProgressBar-Dhx3fOxm.js";import"./Smartik-Bonj4xt4.js";import"./index-BM9kYpov.js";import"./redux-toolkit.modern-DEr0YuQG.js";import"./_arrayLikeKeys-BOaknIRz.js";import"./Deck-DCC2Jsd6.js";import"./AnimatedCard-BBj7EPCy.js";import"./NumeralFace-CXEVFjF1.js";import"./iframe-J4-sjTlt.js";import"./keysIn-Bb7DVGF9.js";import"./index-DrFu-skq.js";const e=i(p),z={title:"Вводный урок/Вводный урок",component:a,parameters:{layout:"fullscreen"},tags:["!autodocs"]},r={name:"Вводный урок",args:{scenario:e}};var o,t,m;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  name: 'Вводный урок',
+  args: {
+    scenario: fullScenario
+  }
+}`,...(m=(t=r.parameters)==null?void 0:t.docs)==null?void 0:m.source}}};const A=["Full"];export{r as Full,A as __namedExportsOrder,z as default};
