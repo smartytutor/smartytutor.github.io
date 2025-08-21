@@ -1,0 +1,1 @@
+import{r as t}from"./index-DRjF_FHU.js";import{S as o}from"./SfxProvider-C05We5iG.js";const x=()=>{const r=t.useContext(o);if(!r)throw new Error("useSfx must be used within a SfxProvider");return r};export{x as u};
